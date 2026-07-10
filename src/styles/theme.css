@@ -1,0 +1,31 @@
+:root {
+  color-scheme: light;
+  --color-canvas: 42 44% 94%;
+  --color-panel: 42 39% 98%;
+  --color-muted: 44 28% 90%;
+  --color-border: 39 19% 82%;
+  --color-ink-strong: 202 16% 18%;
+  --color-ink-body: 204 13% 28%;
+  --color-ink-muted: 204 9% 45%;
+  --color-ink-inverse: 42 39% 98%;
+  --color-green: 145 39% 80%;
+  --color-blue: 211 62% 85%;
+  --color-red: 3 64% 84%;
+  --color-purple: 263 55% 86%;
+}
+
+.dark {
+  color-scheme: dark;
+  --color-canvas: 210 18% 10%;
+  --color-panel: 210 16% 14%;
+  --color-muted: 210 13% 20%;
+  --color-border: 210 12% 27%;
+  --color-ink-strong: 44 34% 93%;
+  --color-ink-body: 42 19% 84%;
+  --color-ink-muted: 39 12% 68%;
+  --color-ink-inverse: 202 16% 18%;
+  --color-green: 145 31% 72%;
+  --color-blue: 211 43% 75%;
+  --color-red: 3 47% 75%;
+  --color-purple: 263 40% 78%;
+}
